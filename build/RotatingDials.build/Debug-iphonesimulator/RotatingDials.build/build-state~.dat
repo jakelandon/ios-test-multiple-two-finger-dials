@@ -1,0 +1,452 @@
+TRotatingDials
+v7
+r0
+t306185446.270398
+cCheck dependencies
+cProcessInfoPlistFile /Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/build/Debug-iphonesimulator/RotatingDials.app/Info.plist RotatingDials-Info.plist
+cCompileXIB /Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/MainWindow.xib
+cCompileXIB /Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/RotatingDialsViewController.xib
+cCpResource build/Debug-iphonesimulator/RotatingDials.app/dial_200x200.png ../assets/images/dial_200x200.png
+cCpResource build/Debug-iphonesimulator/RotatingDials.app/dial_250x250.png ../assets/images/dial_250x250.png
+cCpResource build/Debug-iphonesimulator/RotatingDials.app/dial_300x300.png ../assets/images/dial_300x300.png
+cCpResource build/Debug-iphonesimulator/RotatingDials.app/dial_350x350.png ../assets/images/dial_350x350.png
+cCpResource build/Debug-iphonesimulator/RotatingDials.app/dial_400x400.png ../assets/images/dial_400x400.png
+cCpResource build/Debug-iphonesimulator/RotatingDials.app/dial_450x450.png ../assets/images/dial_450x450.png
+cProcessPCH /var/folders/O9/O9wJi4FeH7C-7maxzD7Lw++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/RotatingDials_Prefix-evtsvqdptivqocepupucccpgekte/RotatingDials_Prefix.pch.gch RotatingDials_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/RotatingDials.build/Debug-iphonesimulator/RotatingDials.build/Objects-normal/i386/main.o /Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/RotatingDials.build/Debug-iphonesimulator/RotatingDials.build/Objects-normal/i386/RotatingDialsAppDelegate.o /Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/Classes/RotatingDialsAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/RotatingDials.build/Debug-iphonesimulator/RotatingDials.build/Objects-normal/i386/RotatingDialsViewController.o /Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/Classes/RotatingDialsViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/RotatingDials.build/Debug-iphonesimulator/RotatingDials.build/Objects-normal/i386/DialView.o /Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/Classes/DialView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk
+c000000004C494D260000000000000110
+t1279872294
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BD1CD90000000000026F020
+t1272040848
+s2551840
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BD1FFC200000000002A96A0
+t1272053698
+s2791072
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BD1FF9E0000000000001355
+t1272053662
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004BD20412000000000000098F
+t1272054802
+s2447
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004BD20471000000000222E640
+t1272054897
+s35841600
+
+N/Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/../assets/images/dial_200x200.png
+c000000004C8FC8C4000000000000614F
+t1284491460
+s24911
+
+N/Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/../assets/images/dial_250x250.png
+c000000004C8FC8BD0000000000008552
+t1284491453
+s34130
+
+N/Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/../assets/images/dial_300x300.png
+c000000004C8FC8B4000000000000A9D4
+t1284491444
+s43476
+
+N/Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/../assets/images/dial_350x350.png
+c000000004C8FC89F000000000000CDA2
+t1284491423
+s52642
+
+N/Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/../assets/images/dial_400x400.png
+c000000004C8FC896000000000000E6B1
+t1284491414
+s59057
+
+N/Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/../assets/images/dial_450x450.png
+c000000004C8FC88A000000000001125F
+t1284491402
+s70239
+
+N/Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/Classes/DialView.h
+c000000004C8FCBD9000000000000017F
+t1284492249
+s383
+i<UIKit/UIKit.h>
+
+N/Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/Classes/DialView.m
+c000000004C8FCCD70000000000000B5B
+t1284492503
+s2907
+i"DialView.h"
+
+N/Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/Classes/RotatingDialsAppDelegate.h
+c000000004C8FC92800000000000001F3
+t1284491560
+s499
+i<UIKit/UIKit.h>
+
+N/Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/Classes/RotatingDialsAppDelegate.m
+c000000004C8FC92800000000000007B8
+t1284491560
+s1976
+i"RotatingDialsAppDelegate.h"
+i"RotatingDialsViewController.h"
+
+N/Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/Classes/RotatingDialsViewController.h
+c000000004C8FCCDF0000000000000105
+t1284492511
+s261
+i<UIKit/UIKit.h>
+i"DialView.h"
+
+N/Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/Classes/RotatingDialsViewController.m
+c000000004C8FCD6400000000000004EC
+t1284492644
+s1260
+i"RotatingDialsViewController.h"
+
+N/Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/MainWindow.xib
+c000000004C8FC9280000000000004D45
+t1284491560
+s19781
+
+N/Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/RotatingDialsViewController.xib
+c000000004C8FC9280000000000003EF9
+t1284491560
+s16121
+
+N/Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/RotatingDials_Prefix.pch
+c000000004C8FC92800000000000000C3
+t1284491560
+s195
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/build/Debug-iphonesimulator/RotatingDials.app
+t2
+s0
+
+N/Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/build/Debug-iphonesimulator/RotatingDials.app.dSYM
+t2
+s0
+
+N/Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/build/Debug-iphonesimulator/RotatingDials.app/Info.plist
+t1284492644
+s822
+
+N/Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/build/Debug-iphonesimulator/RotatingDials.app/MainWindow.nib
+t1284492644
+s1135
+
+N/Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/build/Debug-iphonesimulator/RotatingDials.app/PkgInfo
+t1284492644
+s8
+
+N/Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/build/Debug-iphonesimulator/RotatingDials.app/RotatingDials
+t2
+s0
+
+N/Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/build/Debug-iphonesimulator/RotatingDials.app/RotatingDialsViewController.nib
+t1284492644
+s764
+
+N/Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/build/Debug-iphonesimulator/RotatingDials.app/dial_200x200.png
+t1284492644
+s24911
+
+N/Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/build/Debug-iphonesimulator/RotatingDials.app/dial_250x250.png
+t1284492644
+s34130
+
+N/Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/build/Debug-iphonesimulator/RotatingDials.app/dial_300x300.png
+t1284492644
+s43476
+
+N/Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/build/Debug-iphonesimulator/RotatingDials.app/dial_350x350.png
+t1284492644
+s52642
+
+N/Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/build/Debug-iphonesimulator/RotatingDials.app/dial_400x400.png
+t1284492644
+s59057
+
+N/Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/build/Debug-iphonesimulator/RotatingDials.app/dial_450x450.png
+t1284492644
+s70239
+
+N/Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/build/RotatingDials.build/Debug-iphonesimulator/RotatingDials.build/Objects-normal/i386/DialView.o
+t2
+s0
+
+N/Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/build/RotatingDials.build/Debug-iphonesimulator/RotatingDials.build/Objects-normal/i386/RotatingDials.LinkFileList
+c000000004C8FCD6400000000000002DF
+t1284492644
+s735
+
+N/Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/build/RotatingDials.build/Debug-iphonesimulator/RotatingDials.build/Objects-normal/i386/RotatingDialsAppDelegate.o
+t1284492646
+s45420
+
+N/Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/build/RotatingDials.build/Debug-iphonesimulator/RotatingDials.build/Objects-normal/i386/RotatingDialsViewController.o
+t1284492646
+s42240
+
+N/Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/build/RotatingDials.build/Debug-iphonesimulator/RotatingDials.build/Objects-normal/i386/main.o
+t1284492646
+s6380
+
+N/Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/main.m
+c000000004C8FC928000000000000015F
+t1284491560
+s351
+i<UIKit/UIKit.h>
+
+N/var/folders/O9/O9wJi4FeH7C-7maxzD7Lw++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/RotatingDials_Prefix-evtsvqdptivqocepupucccpgekte/RotatingDials_Prefix.pch.gch
+t1284492646
+s13825936
+
+NRotatingDials-Info.plist
+c000000004C8FC92800000000000004D6
+t1284491560
+s1238
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies306185444#306185444#0(0"0(0#1#0"8701481088#0"0#
+
+CCompileC build/RotatingDials.build/Debug-iphonesimulator/RotatingDials.build/Objects-normal/i386/DialView.o /Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/Classes/DialView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s306185446.105917
+e306185446.239809
+r0
+xCompileC
+xbuild/RotatingDials.build/Debug-iphonesimulator/RotatingDials.build/Objects-normal/i386/DialView.o
+x/Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/Classes/DialView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/Classes/DialView.m: In function '-[DialView rotationHandler:]':
+o/Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/Classes/DialView.m:71: error: 'kTimerInterval' undeclared (first use in this function)
+o/Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/Classes/DialView.m:71: error: (Each undeclared identifier is reported only once
+o/Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/Classes/DialView.m:71: error: for each function it appears in.)
+o/Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/Classes/DialView.m:75: error: expected expression before '/' token
+o/Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/Classes/DialView.m:44: warning: unused variable 'theVelocity'
+o/Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/Classes/DialView.m: In function '-[DialView timerHandler:]':
+o/Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/Classes/DialView.m:85: error: 'kLockFriction' undeclared (first use in this function)
+o/Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/Classes/DialView.m:86: error: 'kTimerInterval' undeclared (first use in this function)
+o{standard input}:205:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L00000000001$pb"
+o{standard input}:205:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression
+o{standard input}:199:non-relocatable subtraction expression, "L_OBJC_IVAR_$_DialView.rotationRecognizer$non_lazy_ptr" minus "L00000000001$pb"
+o{standard input}:199:symbol: "L_OBJC_IVAR_$_DialView.rotationRecognizer$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:191:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_6" minus "L00000000001$pb"
+o{standard input}:191:symbol: "L_OBJC_SELECTOR_REFERENCES_6" can't be undefined in a subtraction expression
+o{standard input}:185:non-relocatable subtraction expression, "L_OBJC_IVAR_$_DialView.rotationRecognizer$non_lazy_ptr" minus "L00000000001$pb"
+o{standard input}:185:symbol: "L_OBJC_IVAR_$_DialView.rotationRecognizer$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:174:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_5" minus "L00000000001$pb"
+o{standard input}:174:symbol: "L_OBJC_SELECTOR_REFERENCES_5" can't be undefined in a subtraction expression
+o{standard input}:171:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000001$pb"
+o{standard input}:171:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression
+o{standard input}:165:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000001$pb"
+o{standard input}:165:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression
+o{standard input}:162:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_2" minus "L00000000001$pb"
+o{standard input}:162:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_2" can't be undefined in a subtraction expression
+o{standard input}:157:non-relocatable subtraction expression, "L_OBJC_IVAR_$_DialView.rotationRecognizer$non_lazy_ptr" minus "L00000000001$pb"
+o{standard input}:157:symbol: "L_OBJC_IVAR_$_DialView.rotationRecognizer$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:150:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L00000000001$pb"
+o{standard input}:150:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression
+o{standard input}:144:non-relocatable subtraction expression, "L_OBJC_IVAR_$_DialView.bgImgView$non_lazy_ptr" minus "L00000000001$pb"
+o{standard input}:144:symbol: "L_OBJC_IVAR_$_DialView.bgImgView$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:136:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000001$pb"
+o{standard input}:136:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression
+o{standard input}:130:non-relocatable subtraction expression, "L_OBJC_IVAR_$_DialView.bgImgView$non_lazy_ptr" minus "L00000000001$pb"
+o{standard input}:130:symbol: "L_OBJC_IVAR_$_DialView.bgImgView$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:113:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000001$pb"
+o{standard input}:113:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression
+o{standard input}:107:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000001$pb"
+o{standard input}:107:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression
+o{standard input}:104:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_1" minus "L00000000001$pb"
+o{standard input}:104:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_1" can't be undefined in a subtraction expression
+o{standard input}:99:non-relocatable subtraction expression, "L_OBJC_IVAR_$_DialView.bgImgView$non_lazy_ptr" minus "L00000000001$pb"
+o{standard input}:99:symbol: "L_OBJC_IVAR_$_DialView.bgImgView$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:94:non-relocatable subtraction expression, "LC0" minus "L00000000001$pb"
+o{standard input}:94:symbol: "LC0" can't be undefined in a subtraction expression
+o{standard input}:89:non-relocatable subtraction expression, "L_OBJC_IVAR_$_DialView.currentVelocity$non_lazy_ptr" minus "L00000000001$pb"
+o{standard input}:89:symbol: "L_OBJC_IVAR_$_DialView.currentVelocity$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:84:non-relocatable subtraction expression, "LC0" minus "L00000000001$pb"
+o{standard input}:84:symbol: "LC0" can't be undefined in a subtraction expression
+o{standard input}:79:non-relocatable subtraction expression, "L_OBJC_IVAR_$_DialView.currentRotation$non_lazy_ptr" minus "L00000000001$pb"
+o{standard input}:79:symbol: "L_OBJC_IVAR_$_DialView.currentRotation$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:61:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000001$pb"
+o{standard input}:61:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression
+o{standard input}:57:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_SUP_REFS_$_0" minus "L00000000001$pb"
+o{standard input}:57:symbol: "L_OBJC_CLASSLIST_SUP_REFS_$_0" can't be undefined in a subtraction expression
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_SUP_REFS_$_0
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0
+o{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_DialView.currentRotation$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol LC0
+o{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_DialView.currentVelocity$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_DialView.bgImgView$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_1
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_1
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_2
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_3
+o{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_DialView.rotationRecognizer$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_2
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_4
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_5
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_6
+lSLF07#2@103"Compile /Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/Classes/DialView.m306185446#306185446#0(7956"/Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/Classes/DialView.m: In function '-[DialView rotationHandler:]':/Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/Classes/DialView.m:71: error: 'kTimerInterval' undeclared (first use in this function)/Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/Classes/DialView.m:71: error: (Each undeclared identifier is reported only once/Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/Classes/DialView.m:71: error: for each function it appears in.)/Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/Classes/DialView.m:75: error: expected expression before '/' token/Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/Classes/DialView.m:44: warning: unused variable 'theVelocity'/Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/Classes/DialView.m: In function '-[DialView timerHandler:]':/Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/Classes/DialView.m:85: error: 'kLockFriction' undeclared (first use in this function)/Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/Classes/DialView.m:86: error: 'kTimerInterval' undeclared (first use in this function){standard input}:205:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L00000000001$pb"{standard input}:205:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression{standard input}:199:non-relocatable subtraction expression, "L_OBJC_IVAR_$_DialView.rotationRecognizer$non_lazy_ptr" minus "L00000000001$pb"{standard input}:199:symbol: "L_OBJC_IVAR_$_DialView.rotationRecognizer$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:191:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_6" minus "L00000000001$pb"{standard input}:191:symbol: "L_OBJC_SELECTOR_REFERENCES_6" can't be undefined in a subtraction expression{standard input}:185:non-relocatable subtraction expression, "L_OBJC_IVAR_$_DialView.rotationRecognizer$non_lazy_ptr" minus "L00000000001$pb"{standard input}:185:symbol: "L_OBJC_IVAR_$_DialView.rotationRecognizer$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:174:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_5" minus "L00000000001$pb"{standard input}:174:symbol: "L_OBJC_SELECTOR_REFERENCES_5" can't be undefined in a subtraction expression{standard input}:171:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000001$pb"{standard input}:171:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression{standard input}:165:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000001$pb"{standard input}:165:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression{standard input}:162:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_2" minus "L00000000001$pb"{standard input}:162:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_2" can't be undefined in a subtraction expression{standard input}:157:non-relocatable subtraction expression, "L_OBJC_IVAR_$_DialView.rotationRecognizer$non_lazy_ptr" minus "L00000000001$pb"{standard input}:157:symbol: "L_OBJC_IVAR_$_DialView.rotationRecognizer$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:150:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L00000000001$pb"{standard input}:150:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression{standard input}:144:non-relocatable subtraction expression, "L_OBJC_IVAR_$_DialView.bgImgView$non_lazy_ptr" minus "L00000000001$pb"{standard input}:144:symbol: "L_OBJC_IVAR_$_DialView.bgImgView$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:136:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000001$pb"{standard input}:136:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression{standard input}:130:non-relocatable subtraction expression, "L_OBJC_IVAR_$_DialView.bgImgView$non_lazy_ptr" minus "L00000000001$pb"{standard input}:130:symbol: "L_OBJC_IVAR_$_DialView.bgImgView$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:113:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000001$pb"{standard input}:113:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression{standard input}:107:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000001$pb"{standard input}:107:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression{standard input}:104:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_1" minus "L00000000001$pb"{standard input}:104:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_1" can't be undefined in a subtraction expression{standard input}:99:non-relocatable subtraction expression, "L_OBJC_IVAR_$_DialView.bgImgView$non_lazy_ptr" minus "L00000000001$pb"{standard input}:99:symbol: "L_OBJC_IVAR_$_DialView.bgImgView$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:94:non-relocatable subtraction expression, "LC0" minus "L00000000001$pb"{standard input}:94:symbol: "LC0" can't be undefined in a subtraction expression{standard input}:89:non-relocatable subtraction expression, "L_OBJC_IVAR_$_DialView.currentVelocity$non_lazy_ptr" minus "L00000000001$pb"{standard input}:89:symbol: "L_OBJC_IVAR_$_DialView.currentVelocity$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:84:non-relocatable subtraction expression, "LC0" minus "L00000000001$pb"{standard input}:84:symbol: "LC0" can't be undefined in a subtraction expression{standard input}:79:non-relocatable subtraction expression, "L_OBJC_IVAR_$_DialView.currentRotation$non_lazy_ptr" minus "L00000000001$pb"{standard input}:79:symbol: "L_OBJC_IVAR_$_DialView.currentRotation$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:61:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000001$pb"{standard input}:61:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression{standard input}:57:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_SUP_REFS_$_0" minus "L00000000001$pb"{standard input}:57:symbol: "L_OBJC_CLASSLIST_SUP_REFS_$_0" can't be undefined in a subtraction expression{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_SUP_REFS_$_0{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_DialView.currentRotation$non_lazy_ptr{standard input}:unknown:Undefined local symbol LC0{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_DialView.currentVelocity$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_DialView.bgImgView$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_1{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_1{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_2{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_3{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_DialView.rotationRecognizer$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_2{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_4{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_5{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_65(4@56"'kTimerInterval' undeclared (first use in this function)306185446#141#164#0(6@95"/Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/Classes/DialView.m306185303#71#0#71#0#43"'*' undeclared (first use in this function)0(4@36"Expected expression before '/' token306185446#603#144#0(6@95"/Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/Classes/DialView.m306185303#75#0#75#0#19"expected * before *0(22@29"Unused variable 'theVelocity'306185446#747#139#0(6@95"/Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/Classes/DialView.m306185303#44#0#44#0#19"unused variable '*'0(4@55"'kLockFriction' undeclared (first use in this function)306185446#1024#163#0(6@95"/Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/Classes/DialView.m306185303#85#0#85#0#43"'*' undeclared (first use in this function)0(4@56"'kTimerInterval' undeclared (first use in this function)306185446#1187#164#0(6@95"/Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/Classes/DialView.m306185303#86#0#86#0#43"'*' undeclared (first use in this function)0(0#0#95"/Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/Classes/DialView.m8705781152#2509"    cd /Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/build/RotatingDials.build/Debug-iphonesimulator/RotatingDials.build/RotatingDials-generated-files.hmap -I/Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/build/RotatingDials.build/Debug-iphonesimulator/RotatingDials.build/RotatingDials-own-target-headers.hmap -I/Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/build/RotatingDials.build/Debug-iphonesimulator/RotatingDials.build/RotatingDials-all-target-headers.hmap -iquote /Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/build/RotatingDials.build/Debug-iphonesimulator/RotatingDials.build/RotatingDials-project-headers.hmap -F/Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/build/Debug-iphonesimulator -I/Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/build/Debug-iphonesimulator/include -I/Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/build/RotatingDials.build/Debug-iphonesimulator/RotatingDials.build/DerivedSources/i386 -I/Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/build/RotatingDials.build/Debug-iphonesimulator/RotatingDials.build/DerivedSources -include /var/folders/O9/O9wJi4FeH7C-7maxzD7Lw++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/RotatingDials_Prefix-evtsvqdptivqocepupucccpgekte/RotatingDials_Prefix.pch -c /Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/Classes/DialView.m -o /Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/build/RotatingDials.build/Debug-iphonesimulator/RotatingDials.build/Objects-normal/i386/DialView.o1#
+
+CCompileC build/RotatingDials.build/Debug-iphonesimulator/RotatingDials.build/Objects-normal/i386/RotatingDialsAppDelegate.o /Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/Classes/RotatingDialsAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s306185446.104098
+e306185446.270113
+r1
+xCompileC
+xbuild/RotatingDials.build/Debug-iphonesimulator/RotatingDials.build/Objects-normal/i386/RotatingDialsAppDelegate.o
+x/Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/Classes/RotatingDialsAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@119"Compile /Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/Classes/RotatingDialsAppDelegate.m306185446#306185446#0(0"0(0#0#111"/Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/Classes/RotatingDialsAppDelegate.m8706806368#2541"    cd /Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/build/RotatingDials.build/Debug-iphonesimulator/RotatingDials.build/RotatingDials-generated-files.hmap -I/Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/build/RotatingDials.build/Debug-iphonesimulator/RotatingDials.build/RotatingDials-own-target-headers.hmap -I/Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/build/RotatingDials.build/Debug-iphonesimulator/RotatingDials.build/RotatingDials-all-target-headers.hmap -iquote /Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/build/RotatingDials.build/Debug-iphonesimulator/RotatingDials.build/RotatingDials-project-headers.hmap -F/Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/build/Debug-iphonesimulator -I/Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/build/Debug-iphonesimulator/include -I/Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/build/RotatingDials.build/Debug-iphonesimulator/RotatingDials.build/DerivedSources/i386 -I/Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/build/RotatingDials.build/Debug-iphonesimulator/RotatingDials.build/DerivedSources -include /var/folders/O9/O9wJi4FeH7C-7maxzD7Lw++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/RotatingDials_Prefix-evtsvqdptivqocepupucccpgekte/RotatingDials_Prefix.pch -c /Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/Classes/RotatingDialsAppDelegate.m -o /Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/build/RotatingDials.build/Debug-iphonesimulator/RotatingDials.build/Objects-normal/i386/RotatingDialsAppDelegate.o0#
+
+CCompileC build/RotatingDials.build/Debug-iphonesimulator/RotatingDials.build/Objects-normal/i386/RotatingDialsViewController.o /Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/Classes/RotatingDialsViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s306185446.105001
+e306185446.270343
+r1
+xCompileC
+xbuild/RotatingDials.build/Debug-iphonesimulator/RotatingDials.build/Objects-normal/i386/RotatingDialsViewController.o
+x/Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/Classes/RotatingDialsViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/Classes/RotatingDialsViewController.m: In function '-[RotatingDialsViewController viewDidLoad]':
+o/Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/Classes/RotatingDialsViewController.m:18: warning: missing sentinel in function call
+lSLF07#2@122"Compile /Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/Classes/RotatingDialsViewController.m306185446#306185446#0(336"/Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/Classes/RotatingDialsViewController.m: In function '-[RotatingDialsViewController viewDidLoad]':/Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/Classes/RotatingDialsViewController.m:18: warning: missing sentinel in function call1(22@33"Missing sentinel in function call306185446#174#162#0(6@114"/Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/Classes/RotatingDialsViewController.m306185444#18#0#18#0#0"0(0#0#114"/Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/Classes/RotatingDialsViewController.m8706253728#2547"    cd /Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/build/RotatingDials.build/Debug-iphonesimulator/RotatingDials.build/RotatingDials-generated-files.hmap -I/Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/build/RotatingDials.build/Debug-iphonesimulator/RotatingDials.build/RotatingDials-own-target-headers.hmap -I/Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/build/RotatingDials.build/Debug-iphonesimulator/RotatingDials.build/RotatingDials-all-target-headers.hmap -iquote /Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/build/RotatingDials.build/Debug-iphonesimulator/RotatingDials.build/RotatingDials-project-headers.hmap -F/Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/build/Debug-iphonesimulator -I/Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/build/Debug-iphonesimulator/include -I/Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/build/RotatingDials.build/Debug-iphonesimulator/RotatingDials.build/DerivedSources/i386 -I/Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/build/RotatingDials.build/Debug-iphonesimulator/RotatingDials.build/DerivedSources -include /var/folders/O9/O9wJi4FeH7C-7maxzD7Lw++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/RotatingDials_Prefix-evtsvqdptivqocepupucccpgekte/RotatingDials_Prefix.pch -c /Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/Classes/RotatingDialsViewController.m -o /Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/build/RotatingDials.build/Debug-iphonesimulator/RotatingDials.build/Objects-normal/i386/RotatingDialsViewController.o0#
+
+CCompileC build/RotatingDials.build/Debug-iphonesimulator/RotatingDials.build/Objects-normal/i386/main.o /Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s306185446.102899
+e306185446.252848
+r1
+xCompileC
+xbuild/RotatingDials.build/Debug-iphonesimulator/RotatingDials.build/Objects-normal/i386/main.o
+x/Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/main.m306185446#306185446#0(0"0(0#0#83"/Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/main.m8707202016#2493"    cd /Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/build/RotatingDials.build/Debug-iphonesimulator/RotatingDials.build/RotatingDials-generated-files.hmap -I/Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/build/RotatingDials.build/Debug-iphonesimulator/RotatingDials.build/RotatingDials-own-target-headers.hmap -I/Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/build/RotatingDials.build/Debug-iphonesimulator/RotatingDials.build/RotatingDials-all-target-headers.hmap -iquote /Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/build/RotatingDials.build/Debug-iphonesimulator/RotatingDials.build/RotatingDials-project-headers.hmap -F/Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/build/Debug-iphonesimulator -I/Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/build/Debug-iphonesimulator/include -I/Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/build/RotatingDials.build/Debug-iphonesimulator/RotatingDials.build/DerivedSources/i386 -I/Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/build/RotatingDials.build/Debug-iphonesimulator/RotatingDials.build/DerivedSources -include /var/folders/O9/O9wJi4FeH7C-7maxzD7Lw++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/RotatingDials_Prefix-evtsvqdptivqocepupucccpgekte/RotatingDials_Prefix.pch -c /Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/main.m -o /Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/build/RotatingDials.build/Debug-iphonesimulator/RotatingDials.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/MainWindow.xib
+s306185444.497447
+e306185444.988497
+r1
+xCompileXIB
+x/Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib306185444#306185444#0(0"0(0#0#91"/Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/MainWindow.xib8705531296#690"    cd /Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/build/Debug-iphonesimulator/RotatingDials.app/MainWindow.nib /Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk0#
+
+CCompileXIB /Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/RotatingDialsViewController.xib
+s306185444.542646
+e306185444.988660
+r1
+xCompileXIB
+x/Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/RotatingDialsViewController.xib
+lSLF07#2@42"CompileXIB RotatingDialsViewController.xib306185444#306185444#0(0"0(0#0#108"/Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/RotatingDialsViewController.xib8705687328#724"    cd /Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/build/Debug-iphonesimulator/RotatingDials.app/RotatingDialsViewController.nib /Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/RotatingDialsViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk0#
+
+CCpResource build/Debug-iphonesimulator/RotatingDials.app/dial_200x200.png ../assets/images/dial_200x200.png
+s306185444.543457
+e306185444.593554
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/RotatingDials.app/dial_200x200.png
+x../assets/images/dial_200x200.png
+lSLF07#2@38"Copy ../assets/images/dial_200x200.png306185444#306185444#0(0"0(0#0#110"/Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/../assets/images/dial_200x200.png8705252736#597"    cd /Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/../assets/images/dial_200x200.png /Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/build/Debug-iphonesimulator/RotatingDials.app0#
+
+CCpResource build/Debug-iphonesimulator/RotatingDials.app/dial_250x250.png ../assets/images/dial_250x250.png
+s306185444.544194
+e306185444.593721
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/RotatingDials.app/dial_250x250.png
+x../assets/images/dial_250x250.png
+lSLF07#2@38"Copy ../assets/images/dial_250x250.png306185444#306185444#0(0"0(0#0#110"/Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/../assets/images/dial_250x250.png8705220704#597"    cd /Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/../assets/images/dial_250x250.png /Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/build/Debug-iphonesimulator/RotatingDials.app0#
+
+CCpResource build/Debug-iphonesimulator/RotatingDials.app/dial_300x300.png ../assets/images/dial_300x300.png
+s306185444.544797
+e306185444.594229
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/RotatingDials.app/dial_300x300.png
+x../assets/images/dial_300x300.png
+lSLF07#2@38"Copy ../assets/images/dial_300x300.png306185444#306185444#0(0"0(0#0#110"/Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/../assets/images/dial_300x300.png8705214016#597"    cd /Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/../assets/images/dial_300x300.png /Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/build/Debug-iphonesimulator/RotatingDials.app0#
+
+CCpResource build/Debug-iphonesimulator/RotatingDials.app/dial_350x350.png ../assets/images/dial_350x350.png
+s306185444.545400
+e306185444.593925
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/RotatingDials.app/dial_350x350.png
+x../assets/images/dial_350x350.png
+lSLF07#2@38"Copy ../assets/images/dial_350x350.png306185444#306185444#0(0"0(0#0#110"/Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/../assets/images/dial_350x350.png8701297312#597"    cd /Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/../assets/images/dial_350x350.png /Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/build/Debug-iphonesimulator/RotatingDials.app0#
+
+CCpResource build/Debug-iphonesimulator/RotatingDials.app/dial_400x400.png ../assets/images/dial_400x400.png
+s306185444.545989
+e306185444.594061
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/RotatingDials.app/dial_400x400.png
+x../assets/images/dial_400x400.png
+lSLF07#2@38"Copy ../assets/images/dial_400x400.png306185444#306185444#0(0"0(0#0#110"/Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/../assets/images/dial_400x400.png8705670144#597"    cd /Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/../assets/images/dial_400x400.png /Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/build/Debug-iphonesimulator/RotatingDials.app0#
+
+CCpResource build/Debug-iphonesimulator/RotatingDials.app/dial_450x450.png ../assets/images/dial_450x450.png
+s306185444.546600
+e306185444.595272
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/RotatingDials.app/dial_450x450.png
+x../assets/images/dial_450x450.png
+lSLF07#2@38"Copy ../assets/images/dial_450x450.png306185444#306185444#0(0"0(0#0#110"/Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/../assets/images/dial_450x450.png8706847136#597"    cd /Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/../assets/images/dial_450x450.png /Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/build/Debug-iphonesimulator/RotatingDials.app0#
+
+CGenerateDSYMFile /Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/build/Debug-iphonesimulator/RotatingDials.app.dSYM /Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/build/Debug-iphonesimulator/RotatingDials.app/RotatingDials
+r0
+
+CLd /Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/build/Debug-iphonesimulator/RotatingDials.app/RotatingDials normal i386
+r0
+
+CProcessInfoPlistFile /Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/build/Debug-iphonesimulator/RotatingDials.app/Info.plist RotatingDials-Info.plist
+s306185444.493345
+e306185444.497318
+r1
+xProcessInfoPlistFile
+x/Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/build/Debug-iphonesimulator/RotatingDials.app/Info.plist
+xRotatingDials-Info.plist
+lSLF07#2@32"Process RotatingDials-Info.plist306185444#306185444#0(0"0(0#0#101"/Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/RotatingDials-Info.plist8701450016#611"    cd /Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility RotatingDials-Info.plist -genpkginfo /Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/build/Debug-iphonesimulator/RotatingDials.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/build/Debug-iphonesimulator/RotatingDials.app/Info.plist0#
+
+CProcessPCH /var/folders/O9/O9wJi4FeH7C-7maxzD7Lw++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/RotatingDials_Prefix-evtsvqdptivqocepupucccpgekte/RotatingDials_Prefix.pch.gch RotatingDials_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s306185444.988763
+e306185446.102642
+r1
+xProcessPCH
+x/var/folders/O9/O9wJi4FeH7C-7maxzD7Lw++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/RotatingDials_Prefix-evtsvqdptivqocepupucccpgekte/RotatingDials_Prefix.pch.gch
+xRotatingDials_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Precompile RotatingDials_Prefix.pch306185444#306185446#0(0"0(0#0#101"/Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/RotatingDials_Prefix.pch8701520512#2341"    cd /Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/build/RotatingDials.build/Debug-iphonesimulator/RotatingDials.build/RotatingDials-generated-files.hmap -I/Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/build/RotatingDials.build/Debug-iphonesimulator/RotatingDials.build/RotatingDials-own-target-headers.hmap -I/Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/build/RotatingDials.build/Debug-iphonesimulator/RotatingDials.build/RotatingDials-all-target-headers.hmap -iquote /Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/build/RotatingDials.build/Debug-iphonesimulator/RotatingDials.build/RotatingDials-project-headers.hmap -F/Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/build/Debug-iphonesimulator -I/Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/build/Debug-iphonesimulator/include -I/Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/build/RotatingDials.build/Debug-iphonesimulator/RotatingDials.build/DerivedSources/i386 -I/Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/build/RotatingDials.build/Debug-iphonesimulator/RotatingDials.build/DerivedSources -c /Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/RotatingDials_Prefix.pch -o /var/folders/O9/O9wJi4FeH7C-7maxzD7Lw++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/RotatingDials_Prefix-evtsvqdptivqocepupucccpgekte/RotatingDials_Prefix.pch.gch0#
+
+CTouch /Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/build/Debug-iphonesimulator/RotatingDials.app
+r0
+

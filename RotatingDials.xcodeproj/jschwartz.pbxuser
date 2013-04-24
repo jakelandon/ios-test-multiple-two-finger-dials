@@ -1,0 +1,234 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* RotatingDials */ = {
+		activeExec = 0;
+		executables = (
+			646E69AF124000A800E133B9 /* RotatingDials */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* RotatingDialsViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {972, 534}}";
+			sepNavSelRange = "{328, 0}";
+			sepNavVisRange = "{0, 338}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* RotatingDialsViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {972, 1027}}";
+			sepNavSelRange = "{1315, 0}";
+			sepNavVisRange = "{806, 927}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 646E69AF124000A800E133B9 /* RotatingDials */;
+		activeSDKPreference = iphonesimulator3.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* RotatingDials */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* RotatingDials */,
+		);
+		codeSenseManager = 646E69BD124000B500E133B9 /* Code sense */;
+		executables = (
+			646E69AF124000A800E133B9 /* RotatingDials */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					794,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 319765951;
+			PBXWorkspaceStateSaveDate = 319765951;
+		};
+		perUserProjectItems = {
+			64278D33124C1D8F001FD8D8 = 64278D33124C1D8F001FD8D8 /* PBXBookmark */;
+			6430A84C126509A100C17B3D = 6430A84C126509A100C17B3D /* PlistBookmark */;
+			6430ABE41267CE9000C17B3D = 6430ABE41267CE9000C17B3D /* PBXTextBookmark */;
+			6430ABE51267CE9000C17B3D = 6430ABE51267CE9000C17B3D /* PBXTextBookmark */;
+			6430ABE61267CE9000C17B3D = 6430ABE61267CE9000C17B3D /* PBXTextBookmark */;
+			6430ABE71267CE9000C17B3D = 6430ABE71267CE9000C17B3D /* PBXTextBookmark */;
+			6430ABE81267CE9000C17B3D = 6430ABE81267CE9000C17B3D /* PBXTextBookmark */;
+			6430ABE91267CE9000C17B3D = 6430ABE91267CE9000C17B3D /* PBXTextBookmark */;
+			646E6A1812400B6000E133B9 = 646E6A1812400B6000E133B9 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 646E69BC124000B500E133B9 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	64278D33124C1D8F001FD8D8 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 646E69CF1240040900E133B9 /* dial_300x300.png */;
+	};
+	6430A84C126509A100C17B3D /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* RotatingDials-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/jschwartz/Documents/Projects/iPhone/Tests/RotatingDials/RotatingDials/RotatingDials-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	6430ABE41267CE9000C17B3D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 646E6A0D1240092900E133B9 /* DialSwitchView.h */;
+		name = "DialSwitchView.h: 22";
+		rLen = 0;
+		rLoc = 361;
+		rType = 0;
+		vrLen = 631;
+		vrLoc = 0;
+	};
+	6430ABE51267CE9000C17B3D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 646E6A0E1240092900E133B9 /* DialSwitchView.m */;
+		name = "DialSwitchView.m: 26";
+		rLen = 0;
+		rLoc = 592;
+		rType = 0;
+		vrLen = 934;
+		vrLoc = 0;
+	};
+	6430ABE61267CE9000C17B3D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* RotatingDialsViewController.m */;
+		name = "RotatingDialsViewController.m: 55";
+		rLen = 0;
+		rLoc = 1315;
+		rType = 0;
+		vrLen = 927;
+		vrLoc = 806;
+	};
+	6430ABE71267CE9000C17B3D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 646E69BE124000C500E133B9 /* DialView.h */;
+		name = "DialView.h: 11";
+		rLen = 78;
+		rLoc = 151;
+		rType = 0;
+		vrLen = 538;
+		vrLoc = 0;
+	};
+	6430ABE81267CE9000C17B3D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 646E69BF124000C500E133B9 /* DialView.m */;
+		name = "DialView.m: 90";
+		rLen = 356;
+		rLoc = 2047;
+		rType = 0;
+		vrLen = 1124;
+		vrLoc = 374;
+	};
+	6430ABE91267CE9000C17B3D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 646E69BF124000C500E133B9 /* DialView.m */;
+		name = "DialView.m: 90";
+		rLen = 356;
+		rLoc = 2047;
+		rType = 0;
+		vrLen = 984;
+		vrLoc = 1494;
+	};
+	646E69AF124000A800E133B9 /* RotatingDials */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = RotatingDials;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	646E69BC124000B500E133B9 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	646E69BD124000B500E133B9 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	646E69BE124000C500E133B9 /* DialView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {972, 526}}";
+			sepNavSelRange = "{151, 78}";
+			sepNavVisRange = "{0, 538}";
+		};
+	};
+	646E69BF124000C500E133B9 /* DialView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {972, 1651}}";
+			sepNavSelRange = "{2047, 356}";
+			sepNavVisRange = "{1498, 980}";
+			sepNavWindowFrame = "{{38, 306}, {1573, 846}}";
+		};
+	};
+	646E6A0D1240092900E133B9 /* DialSwitchView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {972, 526}}";
+			sepNavSelRange = "{361, 0}";
+			sepNavVisRange = "{0, 631}";
+		};
+	};
+	646E6A0E1240092900E133B9 /* DialSwitchView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {972, 819}}";
+			sepNavSelRange = "{592, 0}";
+			sepNavVisRange = "{237, 1069}";
+		};
+	};
+	646E6A1812400B6000E133B9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* RotatingDialsViewController.h */;
+		name = "RotatingDialsViewController.h: 15";
+		rLen = 0;
+		rLoc = 328;
+		rType = 0;
+		vrLen = 338;
+		vrLoc = 0;
+	};
+}
